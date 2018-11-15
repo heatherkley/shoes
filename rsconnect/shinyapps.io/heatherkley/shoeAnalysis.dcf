@@ -1,0 +1,13 @@
+name: shoeAnalysis
+title: shoeAnalysis
+username:
+account: heatherkley
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 563229
+bundleId: 1695106
+url: https://heatherkley.shinyapps.io/shoeAnalysis/
+when: 1541984413.528
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|R Shiny Shoes .docx|shoes.html|shoes.Rmd|shoesplayground.R

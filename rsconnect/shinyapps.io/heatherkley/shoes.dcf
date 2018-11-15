@@ -1,0 +1,13 @@
+name: shoes
+title: shoes
+username:
+account: heatherkley
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 563204
+bundleId: 1692841
+url: https://heatherkley.shinyapps.io/shoes/
+when: 1541814186.15207
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|~$Shiny Shoes .docx|R Shiny Shoes .docx|shoes.html|shoes.Rmd
